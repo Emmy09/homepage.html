@@ -9,3 +9,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+I am a humble being who is God fearing with a desire to be the best among others legitly
+I love getting solutions to problems
